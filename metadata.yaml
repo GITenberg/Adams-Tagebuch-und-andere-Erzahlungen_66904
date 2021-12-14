@@ -1,0 +1,27 @@
+_repo: Adams-Tagebuch-und-andere-Erzahlungen_66904
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Twain, Mark
+    aliases:
+    - Clemens, Samuel Langhorne
+    - Twain, Mark (Samuel Clemens)
+    birthdate: 1835
+    deathdate: 1910
+    gutenberg_agent_id: '53'
+    url: http://www.gutenberg.org/2009/agents/53
+    wikipedia: https://en.wikipedia.org/wiki/Mark_Twain
+description: ''
+gutenberg_issued: '2021-12-08'
+identifiers:
+  gutenberg: '66904'
+language: de
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Adams Tagebuch
+
+  und andere Erzählungen'
+url: http://www.gutenberg.org/ebooks/66904
